@@ -21,7 +21,7 @@ bl_info = {
     "category" : "Generic"
 }
 
-from . macro.NO_macro_props_dialog import register as t_register, unregister as t_unregister
+from . op_continuos.report_finish.WIP_props_dialog import register as t_register, unregister as t_unregister
 
 def register():
     t_register()
