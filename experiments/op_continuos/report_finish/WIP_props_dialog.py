@@ -1,3 +1,6 @@
+#DOES NOT ALWAYS EXECUTE! WHAAAAYYY!?!?
+#There really seem no way to be certainly notified on the {'FINISHED'} of an operator
+
 import bpy
         
 def _set_dirty(self, context):

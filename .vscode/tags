@@ -1,0 +1,156 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a20bb99d/
+FFT_double_dragon.py	..\\op_continuos\\report_finish\\FFT_double_dragon.py	1;"	kind:file	line:1
+MacroOp	..\\macro\\NO_macro_props_dialog.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:31
+MacroOp	..\\macro\\NO_macro_props_popup.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:31
+MacroOp	..\\macro\\WIP_macro_modal_draw.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:46
+MacroOp	..\\macro\\YES_macro.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:21
+MacroOp	..\\macro\\YES_macro_modal.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:38
+MacroOp	..\\macro\\YES_macro_modal_pass.py	/^class MacroOp(bpy.types.Macro):$/;"	kind:class	line:38
+NO_macro_props_dialog.py	..\\macro\\NO_macro_props_dialog.py	1;"	kind:file	line:1
+NO_macro_props_popup.py	..\\macro\\NO_macro_props_popup.py	1;"	kind:file	line:1
+NO_modal_and_props.py	..\\op_continuos\\report_finish\\NO_modal_and_props.py	1;"	kind:file	line:1
+OpA	..\\macro\\NO_macro_props_dialog.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\macro\\NO_macro_props_popup.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\macro\\WIP_macro_modal_draw.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\macro\\YES_macro.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\macro\\YES_macro_modal.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\macro\\YES_macro_modal_pass.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:3
+OpA	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^class OpA(bpy.types.Operator):$/;"	kind:class	line:9
+OpB	..\\macro\\YES_macro.py	/^class OpB(bpy.types.Operator):$/;"	kind:class	line:12
+OpModal	..\\macro\\YES_macro_modal.py	/^class OpModal(bpy.types.Operator):$/;"	kind:class	line:12
+OpModal	..\\macro\\YES_macro_modal_pass.py	/^class OpModal(bpy.types.Operator):$/;"	kind:class	line:12
+OpModal	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^class OpModal(bpy.types.Operator):$/;"	kind:class	line:3
+OpModalDraw	..\\macro\\WIP_macro_modal_draw.py	/^class OpModalDraw(bpy.types.Operator):$/;"	kind:class	line:12
+OpProps	..\\macro\\NO_macro_props_dialog.py	/^class OpProps(bpy.types.Operator):$/;"	kind:class	line:12
+OpProps	..\\macro\\NO_macro_props_popup.py	/^class OpProps(bpy.types.Operator):$/;"	kind:class	line:12
+OpProps	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^class OpProps(bpy.types.Operator):$/;"	kind:class	line:18
+WIP_macro_modal_draw.py	..\\macro\\WIP_macro_modal_draw.py	1;"	kind:file	line:1
+WIP_props_dialog.py	..\\op_continuos\\report_finish\\WIP_props_dialog.py	1;"	kind:file	line:1
+YES_macro.py	..\\macro\\YES_macro.py	1;"	kind:file	line:1
+YES_macro_modal.py	..\\macro\\YES_macro_modal.py	1;"	kind:file	line:1
+YES_macro_modal_pass.py	..\\macro\\YES_macro_modal_pass.py	1;"	kind:file	line:1
+__init__.py	..\\__init__.py	1;"	kind:file	line:1
+_set_dirty	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^def _set_dirty(self, context):$/;"	kind:function	line:6
+bl_idname	..\\macro\\NO_macro_props_dialog.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:32
+bl_idname	..\\macro\\NO_macro_props_dialog.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\NO_macro_props_dialog.py	/^    bl_idname = "tezt.op_props"$/;"	kind:variable	line:13
+bl_idname	..\\macro\\NO_macro_props_popup.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:32
+bl_idname	..\\macro\\NO_macro_props_popup.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\NO_macro_props_popup.py	/^    bl_idname = "tezt.op_props"$/;"	kind:variable	line:13
+bl_idname	..\\macro\\WIP_macro_modal_draw.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:47
+bl_idname	..\\macro\\WIP_macro_modal_draw.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\WIP_macro_modal_draw.py	/^    bl_idname = "tezt.op_modal_draw"$/;"	kind:variable	line:13
+bl_idname	..\\macro\\YES_macro.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:22
+bl_idname	..\\macro\\YES_macro.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\YES_macro.py	/^    bl_idname = "tezt.op_b"$/;"	kind:variable	line:13
+bl_idname	..\\macro\\YES_macro_modal.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:39
+bl_idname	..\\macro\\YES_macro_modal.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\YES_macro_modal.py	/^    bl_idname = "tezt.op_modal"$/;"	kind:variable	line:13
+bl_idname	..\\macro\\YES_macro_modal_pass.py	/^    bl_idname = "tezt.macro"$/;"	kind:variable	line:39
+bl_idname	..\\macro\\YES_macro_modal_pass.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:4
+bl_idname	..\\macro\\YES_macro_modal_pass.py	/^    bl_idname = "tezt.op_modal"$/;"	kind:variable	line:13
+bl_idname	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    bl_idname = "tezt.op_modal"$/;"	kind:variable	line:4
+bl_idname	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_idname = "tezt.op_a"$/;"	kind:variable	line:10
+bl_idname	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_idname = "tezt.op_props"$/;"	kind:variable	line:19
+bl_info	..\\__init__.py	/^bl_info = {$/;"	kind:variable	line:14
+bl_label	..\\macro\\NO_macro_props_dialog.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\NO_macro_props_dialog.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:33
+bl_label	..\\macro\\NO_macro_props_dialog.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\macro\\NO_macro_props_popup.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\NO_macro_props_popup.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:33
+bl_label	..\\macro\\NO_macro_props_popup.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\macro\\WIP_macro_modal_draw.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\WIP_macro_modal_draw.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:48
+bl_label	..\\macro\\WIP_macro_modal_draw.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\macro\\YES_macro.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\YES_macro.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:23
+bl_label	..\\macro\\YES_macro.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\macro\\YES_macro_modal.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\YES_macro_modal.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:40
+bl_label	..\\macro\\YES_macro_modal.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\macro\\YES_macro_modal_pass.py	/^    bl_label = "Hello"$/;"	kind:variable	line:5
+bl_label	..\\macro\\YES_macro_modal_pass.py	/^    bl_label = "TEZT"$/;"	kind:variable	line:40
+bl_label	..\\macro\\YES_macro_modal_pass.py	/^    bl_label = "World"$/;"	kind:variable	line:14
+bl_label	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    bl_label = "TEZZT"$/;"	kind:variable	line:5
+bl_label	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_label = "Hello"$/;"	kind:variable	line:11
+bl_label	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_label = "TEZZT"$/;"	kind:variable	line:20
+bl_options	..\\macro\\NO_macro_props_dialog.py	/^    bl_options = {'INTERNAL', 'REGISTER', 'UNDO'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\NO_macro_props_dialog.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\macro\\NO_macro_props_popup.py	/^    bl_options = {'INTERNAL', 'REGISTER', 'UNDO'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\NO_macro_props_popup.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\macro\\WIP_macro_modal_draw.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\WIP_macro_modal_draw.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\macro\\YES_macro.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\YES_macro.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\macro\\YES_macro_modal.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\YES_macro_modal.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\macro\\YES_macro_modal_pass.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:15
+bl_options	..\\macro\\YES_macro_modal_pass.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:6
+bl_options	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    bl_options = {'REGISTER', 'UNDO'}$/;"	kind:variable	line:7
+bl_options	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_options = {'INTERNAL'}$/;"	kind:variable	line:12
+bl_options	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    bl_options = {'REGISTER', 'UNDO'}$/;"	kind:variable	line:21
+classes	..\\macro\\NO_macro_props_dialog.py	/^classes = [$/;"	kind:variable	line:35
+classes	..\\macro\\NO_macro_props_popup.py	/^classes = [$/;"	kind:variable	line:35
+classes	..\\macro\\WIP_macro_modal_draw.py	/^classes = [$/;"	kind:variable	line:50
+classes	..\\macro\\YES_macro.py	/^classes = [$/;"	kind:variable	line:25
+classes	..\\macro\\YES_macro_modal.py	/^classes = [$/;"	kind:variable	line:42
+classes	..\\macro\\YES_macro_modal_pass.py	/^classes = [$/;"	kind:variable	line:42
+classes	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^classes = [$/;"	kind:variable	line:34
+classes	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^classes = [$/;"	kind:variable	line:38
+draw	..\\macro\\NO_macro_props_dialog.py	/^    def draw(self, context):$/;"	kind:member	line:27
+draw	..\\macro\\NO_macro_props_popup.py	/^    def draw(self, context):$/;"	kind:member	line:27
+draw	..\\macro\\WIP_macro_modal_draw.py	/^    def draw(self, context):$/;"	kind:member	line:42
+draw	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    def draw(self, context):$/;"	kind:member	line:34
+execute	..\\macro\\NO_macro_props_dialog.py	/^    def execute(self, context):$/;"	kind:member	line:23
+execute	..\\macro\\NO_macro_props_dialog.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\macro\\NO_macro_props_popup.py	/^    def execute(self, context):$/;"	kind:member	line:23
+execute	..\\macro\\NO_macro_props_popup.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\macro\\WIP_macro_modal_draw.py	/^    def execute(self, context):$/;"	kind:member	line:38
+execute	..\\macro\\WIP_macro_modal_draw.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\macro\\YES_macro.py	/^    def execute(self, context):$/;"	kind:member	line:17
+execute	..\\macro\\YES_macro.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\macro\\YES_macro_modal.py	/^    def execute(self, context):$/;"	kind:member	line:34
+execute	..\\macro\\YES_macro_modal.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\macro\\YES_macro_modal_pass.py	/^    def execute(self, context):$/;"	kind:member	line:34
+execute	..\\macro\\YES_macro_modal_pass.py	/^    def execute(self, context):$/;"	kind:member	line:8
+execute	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    def execute(self, context):$/;"	kind:member	line:30
+execute	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    def execute(self, context):$/;"	kind:member	line:14
+execute	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    def execute(self, context):$/;"	kind:member	line:25
+f_prop	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    f_prop = bpy.props.FloatProperty()$/;"	kind:variable	line:9
+invoke	..\\macro\\NO_macro_props_dialog.py	/^    def invoke(self, context, event):$/;"	kind:member	line:19
+invoke	..\\macro\\NO_macro_props_popup.py	/^    def invoke(self, context, event):$/;"	kind:member	line:19
+invoke	..\\macro\\WIP_macro_modal_draw.py	/^    def invoke(self, context, event):$/;"	kind:member	line:19
+invoke	..\\macro\\YES_macro_modal.py	/^    def invoke(self, context, event):$/;"	kind:member	line:17
+invoke	..\\macro\\YES_macro_modal_pass.py	/^    def invoke(self, context, event):$/;"	kind:member	line:17
+invoke	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    def invoke(self, context, event):$/;"	kind:member	line:11
+invoke	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^    def invoke(self, context, event):$/;"	kind:member	line:29
+modal	..\\macro\\WIP_macro_modal_draw.py	/^    def modal(self, context, event):$/;"	kind:member	line:27
+modal	..\\macro\\YES_macro_modal.py	/^    def modal(self, context, event):$/;"	kind:member	line:23
+modal	..\\macro\\YES_macro_modal_pass.py	/^    def modal(self, context, event):$/;"	kind:member	line:23
+modal	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^    def modal(self, context, event):$/;"	kind:member	line:19
+register	..\\__init__.py	/^def register():$/;"	kind:function	line:26
+register	..\\macro\\NO_macro_props_dialog.py	/^def register():$/;"	kind:function	line:41
+register	..\\macro\\NO_macro_props_popup.py	/^def register():$/;"	kind:function	line:41
+register	..\\macro\\WIP_macro_modal_draw.py	/^def register():$/;"	kind:function	line:56
+register	..\\macro\\YES_macro.py	/^def register():$/;"	kind:function	line:31
+register	..\\macro\\YES_macro_modal.py	/^def register():$/;"	kind:function	line:48
+register	..\\macro\\YES_macro_modal_pass.py	/^def register():$/;"	kind:function	line:48
+register	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^def register():$/;"	kind:function	line:38
+register	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^def register():$/;"	kind:function	line:43
+t_register	..\\__init__.py	/^from . op_continuos.report_finish.WIP_props_dialog import register as t_register, unregister as /;"	kind:unknown	line:24
+t_unregister	..\\__init__.py	/^from . op_continuos.report_finish.WIP_props_dialog import register as t_register, unregister as /;"	kind:unknown	line:24
+unregister	..\\__init__.py	/^def unregister():$/;"	kind:function	line:29
+unregister	..\\macro\\NO_macro_props_dialog.py	/^def unregister():$/;"	kind:function	line:51
+unregister	..\\macro\\NO_macro_props_popup.py	/^def unregister():$/;"	kind:function	line:51
+unregister	..\\macro\\WIP_macro_modal_draw.py	/^def unregister():$/;"	kind:function	line:64
+unregister	..\\macro\\YES_macro.py	/^def unregister():$/;"	kind:function	line:40
+unregister	..\\macro\\YES_macro_modal.py	/^def unregister():$/;"	kind:function	line:56
+unregister	..\\macro\\YES_macro_modal_pass.py	/^def unregister():$/;"	kind:function	line:56
+unregister	..\\op_continuos\\report_finish\\NO_modal_and_props.py	/^def unregister():$/;"	kind:function	line:42
+unregister	..\\op_continuos\\report_finish\\WIP_props_dialog.py	/^def unregister():$/;"	kind:function	line:48
